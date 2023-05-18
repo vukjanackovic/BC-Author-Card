@@ -1,0 +1,16 @@
+.author-articles img {
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+}
+
+.author-head__avatar img {
+  border-radius: 50%;
+}
+.author-head__avatar a,
+.author-head__avatar a:hover {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
